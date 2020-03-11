@@ -1,0 +1,11 @@
+#como converter o tipo de variável no print e utilizando o nome da variavel
+
+div = 5 / 2
+print(float(div))
+
+#o resultado será 2.5
+
+div = 5 / 2
+print(int(div))
+
+#o resultado será 2
