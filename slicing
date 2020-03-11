@@ -1,0 +1,14 @@
+#Exibe a string, começando pela posição 3 do índice
+nome = "Silvio Santos"
+
+nome[3:]
+
+
+#Exibe a string até a posição 4 do índice 
+
+nome [:4]
+
+
+#Exibe a string eliminando as duas últimas letras
+
+nome [: -2]
